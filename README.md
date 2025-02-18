@@ -1,5 +1,5 @@
 
-# Website Notes Extension
+# Notes Extension
 
 ## Description
 
